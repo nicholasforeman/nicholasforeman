@@ -7,7 +7,6 @@ Hello everyone! I am Nicholas Foreman, a seventeen-year-old software developer b
 🛠️ Experimentation in other languages, such as C++  
 🎥 Development and Game Streams on [📺 Twitch](https://twitch.tv/nicholas_foreman) and Videos on [▶️ YouTube](https://youtube.com/channel/UCBB61e0tBEiu1Qyfw3fkWng)  
 📋 Administrator of Werithiel  
-🤩 Aspiring Retiree  
 
 ## Languages
 Lua  

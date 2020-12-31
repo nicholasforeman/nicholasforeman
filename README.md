@@ -1,5 +1,8 @@
 ## About
-Hello everyone! I am Nicholas Foreman, a seventeen-year-old software developer based in Louisiana. My primary language is Lua, however I have explored other languages such as C++ and Python in the past. I have a deep interest in game engines, especially advanced concepts, algorithms, and frameworks. Along with developing, I enjoy playing games such as Valorant, Rainbow Six Siege, VR, etc. However, my two favorite games are actually platforms: Roblox and CoreGames, as they provide endless opportunities for new content to make and play.
+Hello everyone! I am Nicholas Foreman, a software developer based in Louisiana. My primary language is Lua, however I have explored other languages such as C++, Python, Java, and C# in the past. I have a deep interest in game engines, especially advanced concepts, algorithms, and frameworks. Very familiar with communities, public speaking along with communication among developers, client/server replication, quality assurance testing, moderation, and IT solutions.
+
+
+Along with developing, I enjoy playing games such as Valorant, Rainbow Six Siege, VR, etc. However, my two favorite games are actually platforms: Roblox and CoreGames, as they provide endless opportunities for new content to make and play.
 
 
 ## What I Do
@@ -9,13 +12,7 @@ Hello everyone! I am Nicholas Foreman, a seventeen-year-old software developer b
 📋 Administrator of Werithiel  
 
 ## Languages
-Lua  
-C++/C  
-Python  
-JavaScript  
-C#  
-Java  
-HTML/CSS
+Lua // C++ // Python // JavaScript // C# // C // Java // HTML/CSS
 
 ## Social Media and Contact
 [🌐 LinkedIn](https://linkedin.com/in/nicholas-foreman)  
@@ -25,3 +22,6 @@ HTML/CSS
 
 ## Discord Bots
 [Among Us Voice Control](http://nicholasforeman.me/among-us-voice-control/)
+
+## Other Bots
+[Core API Tracker](https://github.com/nicholasforeman/core-api-tracker)

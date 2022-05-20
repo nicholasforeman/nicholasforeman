@@ -1,3 +1,5 @@
+# Azutreo
+
 ## About
 Hello everyone! I am Nicholas Foreman, a software developer based in Louisiana. My primary language is Lua, however I have explored other languages such as C++, Python, Java, and C# in the past. I have a deep interest in game engines, especially advanced concepts, algorithms, and frameworks. Very familiar with communities, public speaking along with communication among developers, client/server replication, quality assurance testing, moderation, and IT solutions.
 
@@ -16,7 +18,7 @@ Lua // C++ // Python // JavaScript // C# // C // Java // HTML/CSS
 
 ## Contact
 
-**Business**: `nicholas@azutreo.com`
+**Business**: `nicholas@azutreo.com`  
 **Support**: `support@azutreo.com`
 
 ## Social Media

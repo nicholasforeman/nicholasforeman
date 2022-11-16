@@ -10,8 +10,8 @@ Along with developing, I enjoy playing games such as Valorant, Rainbow Six Siege
 ## What I Do
 🛠️ Game Developer on [🎮 Roblox](https://www.roblox.com/users/9221415/profile) and [🎮 CoreGames](https://www.coregames.com/user/f9df3457225741c89209f6d484d0eba8)  
 🛠️ Experimentation in other languages, such as C++  
-🎥 Development and Game Streams on [📺 Twitch](https://twitch.tv/nicholas_foreman) and Videos on [▶️ YouTube](https://youtube.com/channel/UCBB61e0tBEiu1Qyfw3fkWng)  
-📋 Administrator of Werithiel  
+🎥 Occasional and Game Streams on [📺 Twitch](https://twitch.tv/azutreo) and Videos on [▶️ YouTube](https://youtube.com/channel/UCBB61e0tBEiu1Qyfw3fkWng)  
+📋 Programmer II @ Gamefam, working on [🦔 Sonice Speed Simulator](https://www.roblox.com/games/9049840490/Sonic-Speed-Simulator) 
 
 ## Languages
 Lua // C++ // Python // JavaScript // C# // C // Java // HTML/CSS
@@ -23,15 +23,9 @@ Lua // C++ // Python // JavaScript // C# // C // Java // HTML/CSS
 
 ## Social Media
 [🌐 LinkedIn](https://linkedin.com/in/nicholas-foreman)  
-[🖥️ GitHub](https://github.com/nicholasforeman)  
-[🐦 Twitter](https://twitter.com/nickwforeman)  
-[📱 Instagam](https://instagram.com/nicholas_w_foreman/)
-
-## Discord Bots
-[Among Us Voice Control](http://nicholasforeman.me/among-us-voice-control/)
-
-## Other Bots
-[Core API Tracker](https://github.com/nicholasforeman/core-api-tracker)
+[🖥️ GitHub](https://github.com/azutreo)  
+[🐦 Twitter](https://twitter.com/azutreo)  
+[📱 Instagam](https://instagram.com/azutreo/)
 
 ---
 

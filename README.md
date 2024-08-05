@@ -9,7 +9,7 @@ Along with developing, I enjoy playing games such as Valorant, Rainbow Six Siege
 🛠️ Game Developer on [🎮 Roblox](https://www.roblox.com/users/9221415/profile) and [🎮 CoreGames](https://www.coregames.com/user/f9df3457225741c89209f6d484d0eba8)  
 🛠️ Experimentation in other languages, such as C++  
 🎥 Occasional and Game Streams on [📺 Twitch](https://twitch.tv/azutreo) and Videos on [▶️ YouTube](https://youtube.com/channel/UCBB61e0tBEiu1Qyfw3fkWng)  
-📋 Programmer II @ Gamefam, working on [🦔 Sonic Speed Simulator](https://www.roblox.com/games/9049840490/Sonic-Speed-Simulator) 
+📋 Senior Engineer @Supersocial
 
 ## Languages
 Lua // C++ // Python // JavaScript // C# // C // Java // HTML/CSS

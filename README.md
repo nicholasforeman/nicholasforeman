@@ -1,16 +1,29 @@
-## About
-I am a Game Developer focused on creating experiences on [🎮 Roblox](https://www.roblox.com/users/9221415/profile), currently a Programmer III @Gamefam. My specialties are in Luau/Lau, however I have explored other languages such as C++, Python, Java, and C# in the past. I have a deep interest in game engines, especially advanced concepts, algorithms, and frameworks. Very familiar with communities, public speaking along with communication among developers, client/server replication, quality assurance testing, moderation, and IT solutions.
+# 👋 About Me
 
-Along with developing, I enjoy playing games off of Roblox such as Balatro, Le Mans Ultimate, Valorant, Rainbow Six Siege, VR, etc. However, my favorite games are actually on Roblox it provides endless opportunities for new content to make and play.
+I am **Nicholas**, AKA **Azutreo**, and I am a Game Developer creating games on [🎮 Roblox](https://www.roblox.com/users/9221415/profile).
 
-## Languages
-Lua // C++ // Python // JavaScript // C# // C // Java // HTML/CSS
+Currently working on [Anime Rivals](https://www.roblox.com/games/91946222530575/Battleground-Rivals) - an ambitious battleground game with focus on duels.
 
-## Contact
-**Business**: `nicholas@azutreo.com`
+Previously **Programmer III @ Gamefam** and **Senior Gameplay Engineer @ Supersocial**.
 
-## Social Media
-[🌐 LinkedIn](https://linkedin.com/in/nicholas-foreman)
-[🖥️ GitHub](https://github.com/azutreo)
-[🐦 Twitter/X](https://x.com/azutreo)
-[📱 Instagam](https://instagram.com/azutreo/)
+## 🧰 Tech
+
+My programming specialty is **Lua/Luau**, however I have worked across a broad stack and love digging into several disciplines, including game engine internals - advanced concepts, algorithms, frameworks, and client/server replication.
+
+Outside of code, I am also experienced in project management, community management, quality assurance, and general IT/cybersecurity.
+
+**Languages:** Lua/Luau • C • C++ • C# • Rust • Go • Python • Java • TypeScript • JavaScript
+
+**Frontend:** Svelte • Vue • React • Tailwind • HTML/CSS
+
+## 🌱 Areas of Interest
+
+Business • Law • Finance • Project Management • Community Management • Quality Assurance • IT
+
+## 🎮 Off the Clock
+
+When I am not making games on Roblox, I also love playing games. My current favorites consist of **Le Mans Ultimate**, **Balatro**, and **Counter-Strike 2**. I also used to play **Rainbow Six Siege** and **Valorant** competitively when I was in in university.
+
+# 📫 My Socials
+
+[🌐 LinkedIn](https://linkedin.com/in/nicholas-foreman) • [🖥️ GitHub](https://github.com/nicholasforeman) • [🐦 Twitter/X](https://x.com/azutreo) • [📱 Instagram](https://instagram.com/azutreo/)

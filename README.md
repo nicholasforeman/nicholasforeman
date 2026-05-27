@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I am **Nicholas**, AKA **Azutreo**, and I am a Game Developer creating games on [🎮 Roblox](https://www.roblox.com/users/9221415/profile).
+I am **Nicholas**, AKA **Azutreo**, and I am a Game Developer creating games on [Roblox](https://www.roblox.com/users/9221415/profile).
 
 Currently working on [Anime Rivals](https://www.roblox.com/games/91946222530575/Battleground-Rivals) - an ambitious battleground game with focus on duels.
 
@@ -26,4 +26,4 @@ When I am not making games on Roblox, I also love playing games. My current favo
 
 # 📫 My Socials
 
-[🌐 LinkedIn](https://linkedin.com/in/nicholas-foreman) • [🖥️ GitHub](https://github.com/nicholasforeman) • [🐦 Twitter/X](https://x.com/azutreo) • [📱 Instagram](https://instagram.com/azutreo/)
+[LinkedIn](https://linkedin.com/in/nicholas-foreman) • [GitHub](https://github.com/nicholasforeman) • [Twitter/X](https://x.com/azutreo) • [Instagram](https://instagram.com/azutreo/)

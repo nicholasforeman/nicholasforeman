@@ -4,4 +4,4 @@ description: Senior Game Developer on Roblox
 plugins:
   - jekyll-remote-theme
 
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: daattali/beautiful-jekyll@6.0.1

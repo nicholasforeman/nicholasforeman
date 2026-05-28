@@ -1,6 +1,7 @@
-theme: jekyll-theme-cayman
 title: Nicholas Foreman
 description: Senior Game Developer on Roblox
 
 plugins:
   - jekyll-remote-theme
+
+remote_theme: "jekyll/minima@1e8a445"
